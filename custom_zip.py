@@ -8,7 +8,7 @@ def custom_zip(*iterables: tuple) -> tuple:
     Yields:
         tuple: unit index of all iterables
     """
-    print(type(iterables))
+
     sentinel = object()
     iterators = [iter(iterable) for iterable in iterables]
 
