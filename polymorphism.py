@@ -61,3 +61,23 @@ class Employee(Person):
 
         super().change_info(**variables)
         self.salary = variables.get("salary", self.salary)
+
+
+# create person object
+person = Person("mohammad", "dori", 17)
+print(person)
+person.add_age()
+print(person)
+person.change_info(age=20, family="sharifi")
+print(person)
+
+print("----------------------------------")
+
+# create employee object
+employee = Employee("salar", "dori", 30, 1000)
+print(employee)
+employee.add_age()
+employee.add_salary(-100)
+print(employee)
+employee.change_info(salary=2000, name="mohammad", age=20)
+print(employee)
