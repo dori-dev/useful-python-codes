@@ -47,7 +47,7 @@ class Score:
         Returns:
             List[int]: n largest scores list
         """
-        sorted_scores = sorted(scores, reverse=True)
+        sorted_scores: list = sorted(scores, reverse=True)
         return sorted_scores[:number]
 
     def top_3_scores(self) -> List[int]:
@@ -63,7 +63,7 @@ class Score:
 
 
 if __name__ == "__main__":
-    my_scores = Score([17, 18, 14, 13, 20, 19, 11, 18])
+    my_scores: object = Score([17, 18, 14, 13, 20, 19, 11, 18])
     print(my_scores)
     print(my_scores.first_score())
     print(my_scores.last_score())
