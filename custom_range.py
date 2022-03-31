@@ -69,7 +69,7 @@ class Range:
         return f'Range({self.start}, {self.stop}, {self.step})'
 
 
-# test Range works!
+# Range class test!
 print(len(Range(1, 10)) == len(range(1, 10)))
 my_counter = Range(10, 1, -1)
 print(my_counter.iterable == list(range(10, 1, -1)))
