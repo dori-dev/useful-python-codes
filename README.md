@@ -4,9 +4,9 @@ Some python codes, for tricks practice and professional tips!
 
 #
 
-## List of Codes
+# List of Codes
 
-**class codes**:
+**class & oop**:
 
 |                    code                    | description               |
 | :----------------------------------------: | ------------------------- |
@@ -17,13 +17,23 @@ Some python codes, for tricks practice and professional tips!
 | [advanced class](class/advanced_class.py)  | advanced class example    |
 |       [score class](class/score.py)        | score management with oop |
 
+#
 
-**custom codes**
+**custom tools**:
 | code | description |
 | :----------------------------------------: | ------------------------- |
 | [custom range](custom/custom_range.py) | implementation custom range function |
 | [custom error](custom/custom_error.py) | use custom error in project |
 | [custom zip](custom/custom_zip.py) | implementation custom zip method |
+
+#
+
+
+**code test**:
+| code | description |
+| :----------------------------------------: | ------------------------- |
+| [survey codes](custom/survey.py) | survey class for testing |
+| [test survey](custom/test_survey.py) | test survey class with unittest |
 
 #
 
