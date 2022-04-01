@@ -6,7 +6,7 @@ Some python codes, for tricks practice and professional tips!
 
 ## List of Codes
 
-**class**:
+**class codes**:
 
 |                    code                    | description               |
 | :----------------------------------------: | ------------------------- |
@@ -16,6 +16,14 @@ Some python codes, for tricks practice and professional tips!
 |    [abstraction](class/abstraction.py)     | abstraction in python     |
 | [advanced class](class/advanced_class.py)  | advanced class example    |
 |       [score class](class/score.py)        | score management with oop |
+
+
+**custom codes**
+| code | description |
+| :----------------------------------------: | ------------------------- |
+| [custom range](custom/custom_range.py) | implementation custom range function |
+| [custom error](custom/custom_error.py) | use custom error in project |
+| [custom zip](custom/custom_zip.py) | implementation custom zip method |
 
 #
 
