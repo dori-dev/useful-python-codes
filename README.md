@@ -11,6 +11,7 @@ Some python codes, for tricks practice and professional tips!
 |                    code                    | description               |
 | :----------------------------------------: | ------------------------- |
 | [data class](class/python_dataclass.py) | python data classes       |
+| [method types](class/method_types.py) | method types, instance, static and class methods       |
 |   [polymorphism](class/polymorphism.py)    | polymorphism in python    |
 |  [encapsulation](class/encapsulation.py)   | encapsulation in python   |
 |    [abstraction](class/abstraction.py)     | abstraction in python     |
