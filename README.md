@@ -17,7 +17,7 @@ Some python codes, for tricks practice and professional tips!
 | [advanced class](class/advanced_class.py)  | advanced class example    |
 |       [score class](class/score.py)        | score management with oop |
 
-#
+<br>
 
 **custom tools**:
 | code | description |
@@ -26,8 +26,7 @@ Some python codes, for tricks practice and professional tips!
 | [custom error](custom/custom_error.py) | use custom error in project |
 | [custom zip](custom/custom_zip.py) | implementation custom zip method |
 
-#
-
+<br>
 
 **code test**:
 | code | description |
@@ -35,7 +34,16 @@ Some python codes, for tricks practice and professional tips!
 | [survey codes](custom/survey.py) | survey class for testing |
 | [test survey](custom/test_survey.py) | test survey class with unittest |
 
-#
+<br>
+
+**useful codes**:
+| code | description |
+| :----------------------------------------: | ------------------------- |
+| [cache](custom/cache.py) | use cache for faster code |
+| [multi language app](custom/multi_lang_app.py) | implementation multi language app in python |
+| [requests html](custom/requests-html.rst) | easy html parsing with python |
+
+<br>
 
 ## Links
 

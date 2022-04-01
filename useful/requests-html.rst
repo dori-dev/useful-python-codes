@@ -1,10 +1,10 @@
-Requests-HTML: HTML Parsing for Humans™
+Requests-HTML: Easy HTML Parsing for Humans
+================
 
 This library intends to make parsing HTML (e.g. scraping the web) as
 simple and intuitive as possible.
 
 When using this library you automatically get:
-
 - **Full JavaScript support**!
 - *CSS Selectors* (a.k.a jQuery-style, thanks to PyQuery).
 - *XPath Selectors*, for the faint of heart.
@@ -14,9 +14,12 @@ When using this library you automatically get:
 - The Requests experience you know and love, with magical parsing abilities.
 - **Async Support**
 
-.. Other nice features include:
+Installation
+============
 
-    - Markdown export of pages and elements.
+.. code-block:: shell
+
+    $ pipenv install requests-html
 
 
 Tutorial & Usage
@@ -239,9 +242,3 @@ You can also use this library without Requests:
     {'https://httpbin.org'}
 
 
-Installation
-============
-
-.. code-block:: shell
-
-    $ pipenv install requests-html
