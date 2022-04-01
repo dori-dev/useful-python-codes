@@ -10,7 +10,7 @@ Some python codes, for tricks practice and professional tips!
 
 |                    code                    | description               |
 | :----------------------------------------: | ------------------------- |
-| [data class](class/python_dataclass.py.py) | python data classes       |
+| [data class](class/python_dataclass.py) | python data classes       |
 |   [polymorphism](class/polymorphism.py)    | polymorphism in python    |
 |  [encapsulation](class/encapsulation.py)   | encapsulation in python   |
 |    [abstraction](class/abstraction.py)     | abstraction in python     |
@@ -22,8 +22,8 @@ Some python codes, for tricks practice and professional tips!
 **async codes**:
 | code | description |
 | :----------------------------------------: | ------------------------- |
-| [asyncio example](custom/asyncio_example.py) | simple use asyncio in python |
-| [asynchronous](custom/asynchronous.py) | async factorial calculator |
+| [asyncio example](async/asyncio_example.py) | simple use asyncio in python |
+| [asynchronous](async/asynchronous.py) | async factorial calculator |
 
 <br>
 
@@ -39,26 +39,26 @@ Some python codes, for tricks practice and professional tips!
 **code test**:
 | code | description |
 | :----------------------------------------: | ------------------------- |
-| [survey codes](custom/survey.py) | survey class for testing |
-| [test survey](custom/test_survey.py) | test survey class with unittest |
+| [survey codes](test/survey.py) | survey class for testing |
+| [test survey](test/test_survey.py) | test survey class with unittest |
 
 <br>
 
 **useful codes**:
 | code | description |
 | :----------------------------------------: | ------------------------- |
-| [cache](custom/cache.py) | use cache for faster code |
-| [multi language app](custom/multi_lang_app.py) | implementation multi language app in python |
-| [requests html](custom/requests-html.rst) | easy html parsing with python |
+| [cache](useful/cache.py) | use cache for faster code |
+| [multi language app](useful/multi_lang_app.py) | implementation multi language app in python |
+| [requests html](useful/requests-html.rst) | easy html parsing with python |
 
 <br>
 
 **other codes**:
 | code | description |
 | :----------------------------------------: | ------------------------- |
-| [find hash](custom/find_hash.py) | find the desired hash for another form of `message` |
-| [named tuple](custom/named_tuple.py) | use name tuple in python |
-| [simple server](custom/simple_server.py) | create simple web server using python |
+| [find hash](other/find_hash.py) | find the desired hash for another form of `message` |
+| [named tuple](other/named_tuple.py) | use name tuple in python |
+| [simple server](other/simple_server.py) | create simple web server using python |
 
 <br>
 
