@@ -19,6 +19,14 @@ Some python codes, for tricks practice and professional tips!
 
 <br>
 
+**async codes**:
+| code | description |
+| :----------------------------------------: | ------------------------- |
+| [asyncio example](custom/asyncio_example.py) | simple use asyncio in python |
+| [asynchronous](custom/asynchronous.py) | async factorial calculator |
+
+<br>
+
 **custom tools**:
 | code | description |
 | :----------------------------------------: | ------------------------- |
@@ -42,6 +50,15 @@ Some python codes, for tricks practice and professional tips!
 | [cache](custom/cache.py) | use cache for faster code |
 | [multi language app](custom/multi_lang_app.py) | implementation multi language app in python |
 | [requests html](custom/requests-html.rst) | easy html parsing with python |
+
+<br>
+
+**other codes**:
+| code | description |
+| :----------------------------------------: | ------------------------- |
+| [find hash](custom/find_hash.py) | find the desired hash for another form of `message` |
+| [named tuple](custom/named_tuple.py) | use name tuple in python |
+| [simple server](custom/simple_server.py) | create simple web server using python |
 
 <br>
 
